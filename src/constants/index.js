@@ -7,7 +7,7 @@ import Manapuram from '../assets/Manapuram.png'
 import Crm from '../assets/crm.jpg'
 import Hr from '../assets/hrSoftware.png'
 
-export const HERO_CONTENT = 'I am an ASP.NET Core Developer with over one year of professional experience in software development, system engineering, and database management. I specialize in designing, developing, and managing enterprise-grade web applications, leveraging ASP.NET Core for robust backend development, HTML and JavaScript for responsive and dynamic user interfaces, and SQL for efficient database design and management.'
+export const HERO_CONTENT = ''
 
 
 
